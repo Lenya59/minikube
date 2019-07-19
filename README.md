@@ -1,5 +1,5 @@
+![logo](https://user-images.githubusercontent.com/30426958/61536054-69206080-aa3c-11e9-9675-8ec43432017b.png)
 # Install Minikube
----
 This page shows you how to install Minikube, a tool that runs a single-node Kubernetes cluster in a virtual machine on your personal computer.
 
 #### Prerequisites:
